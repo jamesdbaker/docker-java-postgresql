@@ -1,13 +1,4 @@
 docker-java-postgresql
 ======================
 
-A Docker buidlfile for minimum setting with Java SDK and PostgreSQL.
-This build file is to setup
-
-- Latest Cent OS
-- PostgreSQL
-- Open JDK
-
-The detail about the Docker image built by this build file is following page.
-
-https://www.alinous.org/blog/blog-2014-2/docker-build/
+This Docker buildfile is an update of [alinous-core/docker-java-postgresql](https://github.com/alinous-core/docker-java-postgresql) to include Java 8
